@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    color: blue;
+    background-color: antiquewhite;
+}
+
+.navbar{
+    text-align: center;
+}
+
+.navbar-item{
+    list-style: none;
+}
+
+.navbar-link{
+    text-decoration: none;
+}
+
